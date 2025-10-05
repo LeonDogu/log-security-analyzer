@@ -25,6 +25,7 @@ Du lernst dabei:
 ---
 
 ## 🏗️ Projektstruktur
+```
 log-security-analyzer/
 ├── src/
 │ └── analyze.py # Hauptskript
