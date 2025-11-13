@@ -1,5 +1,17 @@
 {
-  "total_failed": 0,
-  "unique_ips": 0,
-  "suspicious_ips": {}
+  "total_failed_attempts": 5,
+  "unique_ips": 2,
+  "top_ips": [
+    [
+      "203.0.113.5",
+      4
+    ],
+    [
+      "185.122.32.9",
+      1
+    ]
+  ],
+  "suspicious_ips": {
+    "203.0.113.5": 4
+  }
 }
